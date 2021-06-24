@@ -1,0 +1,23 @@
+{
+  "name": "amenov.express.only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amenov/express.onlyjs.git"
+  },
+  "keywords": [
+    "express",
+    "only"
+  ],
+  "author": "Amenov Abdulsalam <amenov.abdulsalam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amenov/express.onlyjs/issues"
+  },
+  "homepage": "https://github.com/amenov/express.onlyjs#readme"
+}
