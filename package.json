@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/amenov/express.onlyjs/issues"
   },
-  "homepage": "https://github.com/amenov/express.onlyjs#readme"
+  "homepage": "https://github.com/amenov/express.onlyjs#readme",
+  "dependencies": {
+    "flat": "^5.0.2"
+  }
 }
