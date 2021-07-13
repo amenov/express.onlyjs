@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/amenov/express.onlyjs#readme",
   "dependencies": {
-    "flat": "^5.0.2"
+    "amenov.only": "^1.0.1"
   }
 }
